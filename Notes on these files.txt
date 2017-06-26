@@ -1,0 +1,32 @@
+Hayes 2017 – Reptile invasions dataset
+
+Temporal patterns of invasion by non-native reptiles in Florida 
+
+Mark A. Hayes
+
+Begun June 26, 2017
+
+These datasets are from data downloaded from the Early Detection & Distribution Mapping System (www.eddmaps. org) website for reptiles in the United States. 
+In this project, reptiles are used that have > 100 records listed in the dataset as of June 26, 2017. This resulted in 15 species and individual species datasets. 
+The csv files downloaded from the EDDMapS site are considered the master files for this analysis and the naming convention is as follows: genus and species as a 4-letter acronym, followed by the date of download. For example, for Agama agama downloaded on June 26, 2017, the csv master file is named: “agag – 06262017.csv” 
+Thus, 4-letter codes and names are, following the EDDMapS site:
+
+agag - African redhead agama (Agama agama africana)
+aneq - knight anole (Anolis equestris equestris)
+ansa - brown anole (Anolis sagrei)
+bavi - brown basilisk (Basiliscus vittatus)
+boco - common boa (Boa constrictor)
+ctsi - black spiny-tailed iguana (Ctenosaura similis)
+hema - Tropical House Gecko (Hemidactylus mabouia)
+hetu - Mediterranean gecko (Hemidactylus turcicus)
+igig - green iguana (Iguana iguana)
+leca - northern curly-tailed lizard (Leiocephalus carinatus armouri)
+pymo - Burmese python (Python molurus ssp. bivittatus)
+pyre - ball python (Python regius)
+rabr - brahminy blind snake (Ramphotyphlops braminus)
+same - black and white tegu (Salvator merianae)
+vani - Nile monitor (Varanus niloticus)
+
+
+
+
