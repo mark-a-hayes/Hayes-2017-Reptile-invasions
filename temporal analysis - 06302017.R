@@ -104,13 +104,9 @@ lines(x,y)
 ## Step 3. Derivatives analysis.
 
 # Taking the first (slope) and second (acceleration) derivative of the best model, plugging in coefficients. 
-# Note: I am getting implausible first derivatives when using 3rd order polynomials.
-# To keep it simple for the time being, I'm only using second order polynomials.
-# Just looking at second order polynomials may be reasonable and prudent,
-# given the relatively small datasets. 
-
 
 # First derivative:
+
 fit2 # Use model to plug into the expression below.
 D(expression( -1.151e+07  +  1.143e+04*x   -2.839e+00*x^2    ),"x")
  
